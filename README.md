@@ -1,4 +1,4 @@
-# Built as a submission for Hydrangea Hacks 2021
+## Built as a submission for Hydrangea Hacks 2021
 
 ### Inspiration
 We were inspired to make a game that could help others, especially in these uncertain and stressful times. Many projects are geared towards helping people connect with other people, so we decided to make a project that could help anyone connect with someone that will never leave their side: ourselves. The game helps guide the user to do some self-reflection on the good and bad events of their day through art, and the game interprets the picture to create something new that can help the user see that all these different feelings are okay, and that we can make something beautiful out of them like the art that we made in the game. You don't need to be an artist to use our app, just ready to be open-minded and to see the big picture.
